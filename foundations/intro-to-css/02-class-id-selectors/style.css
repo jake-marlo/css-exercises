@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.red {
+    background-color: #f09d9d;
+    font-family: Verdana, "DejaVu Sans", sans-serif;    
+}
+
+.medium {
+    font-size: 24px;
+}
+
+#elm2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#elm4 {
+    background-color: #89ff89;
+    font-weight: bold;
+}
